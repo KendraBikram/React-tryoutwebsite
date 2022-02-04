@@ -1,0 +1,26 @@
+.contact{
+    background-color: #1d2029;
+    /*background-image: linear-gradient(to right, #616a86 , rgb(119, 148, 158));*/ 
+}
+
+.contactbody{
+    height: 100vh;
+    padding-bottom: 373px;
+}
+
+.headerc{
+    color: #fff;
+    font-style: italic;
+    text-align: left;
+    font-variant: small-caps;
+    font-size: 60px;
+    margin-left: 1em;
+}
+
+.ul{
+    color: #fff;
+    padding-top: 15px;
+    font-style: oblique;
+    text-align: left;
+    margin-left: 5em;
+}

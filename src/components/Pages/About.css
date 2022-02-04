@@ -1,0 +1,17 @@
+.about{
+    background-color: #1d2029;
+}
+
+.aboutbody{
+    height: 100vh;
+    padding-bottom: 373px;
+}
+
+.headerc{
+    color: #fff;
+    font-style: italic;
+    text-align: left;
+    font-variant: small-caps;
+    font-size: 60px;
+    margin-left: 1em;
+}

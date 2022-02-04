@@ -1,0 +1,46 @@
+.project{
+    background-color: #1d2029;
+    padding-bottom: 373px;
+}
+
+.projectbody{
+    text-align: center;
+    height: 100vh;
+}
+
+.l{
+    width: 40em;
+    margin-top: 2em;
+    margin-left: 3.8em;
+    margin-bottom: 2em;
+}
+
+.m{
+    height: 18.5em;
+    width: 30em;
+    margin-top: 2em;
+    margin-left: 3.8em;
+    margin-bottom: 2em;
+}
+
+.s{
+    width: 60em;
+    margin-top: 2em;
+    margin-left: 3.8em;
+    margin-bottom: 2em;
+}
+
+.p{
+    margin-left: 2.8em;
+    font-size: 1.3em;
+    color: #ffff;
+}
+
+.headerp{
+    color: #fff;
+    font-style: italic;
+    font-variant: small-caps;
+    font-size: 60px;
+    margin-left: 1em;
+}
+
